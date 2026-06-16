@@ -1,4 +1,4 @@
-# Heart Disease Prediction: A Machine Learning Approach 🫀
+# Heart Disease Prediction: A Machine Learning Approach 
 
 ## 📌 Project Overview
 This project focuses on predicting the presence of heart disease in patients based on their medical and biometric data. The goal is to build a reliable classification model that can assist medical professionals in early and accurate diagnosis, utilizing transparent and interpretable algorithms.
